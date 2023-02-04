@@ -1,3 +1,3 @@
 # hotel-room-booking
 Authors:
-KhushBakht Tahir
+KhushBakht Tahir <khush.bakht334@gmail.com>
