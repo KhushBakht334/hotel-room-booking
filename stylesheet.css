@@ -1,0 +1,30 @@
+body{
+    margin:0;   
+}
+.nav-bar{
+    width: 100%;
+    background-color: beige;
+    overflow: hidden;
+}
+.nav-bar a{
+    float: left;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    padding: 14px 16px;
+
+}
+.active{
+    background-color: red;
+}
+.nav-bar a.split{
+    float:right;
+    color:black;
+    background-color:#F4F6F6 ;
+}
+a.split:hover{
+    background-color: #E5E8E8 ;
+}
+a:hover{
+    background-color: #BFC9CA;
+}
