@@ -158,3 +158,8 @@ h1 {
 .room h2 {
     color: #000000;
 }
+.about {
+    float: left;
+    width: 100%;
+    box-sizing: border-box;
+}
