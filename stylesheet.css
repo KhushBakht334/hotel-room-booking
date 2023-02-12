@@ -33,7 +33,7 @@ a:hover{
     background-color: #BFC9CA;
 }
 .hotel {
-    background-image: url('hotel.jpg');
+    background-image: url('pictures/hotel.jpg');
     width: 1500px;
     min-width: 1000px;
     max-width:100%;
