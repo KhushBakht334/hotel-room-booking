@@ -200,5 +200,24 @@ h1 {
     font-size: 15px;
     margin: 5px;
 }
+footer {
+    margin:16px 0;
+    padding: 32px 0;
+    background-color: #000000;
+    color: #ffffff;
+    width:100%;
+    
+}
+footer h6 {
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    margin: 10px 0;
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
 
-
+}
+footer i {
+    text-align: center;
+    font-size: 24px;
+    padding: 16px 0;
+}
