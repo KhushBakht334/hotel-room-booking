@@ -33,7 +33,7 @@ a:hover{
     background-color: #BFC9CA;
 }
 .hotel {
-    background-image: url('hotel.jpg');
+    background-image: url('pictures/hotel.jpg');
     width: 1500px;
     min-width: 1000px;
     max-width:100%;
@@ -125,12 +125,18 @@ h1 {
     width:100%;
     height:auto;
 }
+.single-room, .double-room, .deluxe-room {
+    width:30%;
+    margin: 5px;
+    box-sizing: border-box;
+    float:left;
+}
 .room {
-    margin:10px;
+    margin:0;
     padding: 0;
     border: 1px solid #cac2c2;
     float: left;
-    width: 30%;
+    width: 100%;
     box-sizing: border-box;
 }
 .room button {
@@ -145,8 +151,9 @@ h1 {
     text-decoration: none;
     font-size: 16px;
 }
-.room img {
+.room_section img {
     width: 100%;
+    margin: 0;
 }
 .room h2 {
     color: #000000;
